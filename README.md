@@ -40,6 +40,6 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
     </a>
 </p>
-![Snake animation](https://github.com/joaooapolinario/joaooapolinario/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/joaooapolinario/joaooapolinario/blob/output/github-contribution-grid-snake.svg)
 
  
