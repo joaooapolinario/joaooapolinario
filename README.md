@@ -1,84 +1,68 @@
-# 👋 Olá, eu sou João Pedro
+# 👨‍💻 Olá, eu sou João Pedro
 
-- **Desenvolvedor Full Stack**  
-- Estudante de **Ciência da Computação** na **UFAL**  
-- **Técnico em Informática**
+### Desenvolvedor Full Stack | Cibersegurança
 
-Desenvolvedor full stack focado na construção de aplicações web modernas, escaláveis e bem estruturadas.  
-Atualmente direcionando meus estudos e projetos para o ecossistema **Node.js**, atuando do backend ao frontend.
+<div align="justify">
+  Sou estudante de <b>Ciência da Computação na UFAL</b> e Técnico em Informática. Minha trajetória profissional é definida pela interseção entre <b>construção de software</b> e <b>segurança da informação</b>.
+  <br><br>
+  Não me contento apenas em fazer o código funcionar; meu objetivo é criar aplicações que sejam escaláveis, performáticas e, acima de tudo, seguras. Atuo no desenvolvimento Full Stack utilizando o ecossistema <b>JavaScript (Node.js/NestJS/React)</b> para criar produtos digitais, enquanto aprofundo meus conhecimentos em <b>Python e Linux</b> para automação, scripting e <i>Hardening</i> de sistemas.
+  <br><br>
+  Atualmente, estou focado em aplicar conceitos de <b>AppSec (Application Security)</b> e <b>OWASP Top 10</b> diretamente no ciclo de desenvolvimento, garantindo que a segurança seja um requisito de arquitetura, e não apenas uma etapa final.
+</div>
 
 ---
 
-## Stack Principal
+## 🚀 O que estou fazendo agora
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+- 💼 **Projetos:** Focado no desenvolvimento do **VulnScanner Dashboard** (Ferramenta de Varredura de rede) e manutenção do **StudyFlow** e **LiftTrack**.
+- 🛡️ **Estudos em Security:** Focado em *Penetration Testing*, normas **ISO 27001** e automação com **Python**.
+- 🎯 **Objetivo:** Integrar times de alta performance como Full Stack Engineer ou atuar com DevSecOps/AppSec.
+
+---
+
+## 🛠️ Arsenal Tecnológico
+
+### 💻 Desenvolvimento Web (Full Stack)
+> *Onde eu construo soluções robustas.*
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### 🔐 Segurança & Infraestrutura
+> *Onde eu protejo, automatizo e analiso.*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Bash Script](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ---
 
-## Áreas de Interesse
-- Inteligência Artificial
-- Machine Learning
-- Cibersegurança
-- Arquitetura de Software e Sistemas Web
+## 🏆 Projetos Principais
+
+| Projeto | Stack | Detalhes |
+| :--- | :--- | :--- |
+| **🛡️ [VulnScanner Dashboard](https://github.com/joaooapolinario/vuln-scanner-dashboard)** | `Fullstack` `Sec` `Nmap` | **Plataforma de Análise de Vulnerabilidades.** Dashboard centralizado para visualização de falhas de segurança e riscos em tempo real. Integração de scripts de varredura com visualização de dados moderna. |
+| **📚 [StudyFlow](https://github.com/joaooapolinario/studyflow)** | `NestJS` `React` `PostgreSQL` | **Plataforma de Gestão Acadêmica.** Focada em organizar a vida universitária. Implementa uma interface moderna para gestão de prazos e notas. |
+| **🏋️ [LiftTrack](https://github.com/joaooapolinario/lifttrack)** | `Next.js` `Prisma` `Tailwind` | **Web App de Performance Física.** Aplicação *mobile-first* para registro de treinos. Destaque para a UX fluida e arquitetura otimizada para performance no Frontend. |
 
 ---
 
-## Projetos em Destaque
+## ⚡ Minha Filosofia de Trabalho
 
-### 🏋️ LiftTrack
-**Stack:** Node.js • NestJS • Next.js • PostgreSQL • Prisma  
-
-Aplicação web para acompanhamento de planilhas de treino e evolução na academia, com foco em organização e progressão.
-
-🔗 Repositório:  
-👉 https://github.com/joaooapolinario/lifttrack
+1.  **Code Security:** Segurança não é "feature", é base.
+2.  **Clean Code:** Código é feito para humanos lerem, não apenas para máquinas executarem.
+3.  **Automação:** Se eu preciso fazer a mesma tarefa mais de duas vezes, eu crio um script em Python para isso.
 
 ---
 
-### 📚 StudyFlow
-**Stack:** Node.js • NestJS • Next.js • PostgreSQL • Prisma  
-
-Dashboard acadêmico para gerenciamento e acompanhamento das matérias da faculdade, atividades, conteúdos e desempenho.
-
-🔗 Repositório:  
-👉 https://github.com/joaooapolinario/studyflow
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-### Backend
-- Node.js
-- NestJS
-- APIs REST
-- Autenticação e regras de negócio
-
-### Frontend
-- Next.js
-- React
-- HTML, CSS, JavaScript
-- Tailwind CSS (UI/UX)
-
-### Banco de Dados
-- PostgreSQL
-- Prisma ORM
-- Modelagem de dados
-
-### Dev & Infra
-- Git & GitHub
-- Linux
-- Conceitos de deploy, VPS e automações
-
----
-
-📫 **Contato & Networking**
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaooapolinario/)
 [![Instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/joaoo.apolinario)
-
