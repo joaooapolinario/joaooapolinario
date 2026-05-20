@@ -14,7 +14,7 @@
 
 ## 🚀 O que estou fazendo agora
 
-- 💼 **Projetos:** Focado no desenvolvimento do **VulnScanner Dashboard** (Ferramenta de Varredura de rede) e manutenção do **StudyFlow** e **LiftTrack**.
+- 💼 **Projetos:** Focado no desenvolvimento do **VulnScanner Dashboard** (Ferramenta de Varredura de rede), **StudyFlow** e **LiftTrack**.
 - 🛡️ **Estudos em Security:** Focado em *Penetration Testing*, normas **ISO 27001** e automação com **Python**.
 - 🎯 **Objetivo:** Integrar times de alta performance como Full Stack Engineer ou atuar com DevSecOps/AppSec.
 
