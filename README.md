@@ -1,13 +1,13 @@
 # 👨‍💻 Olá, eu sou João Pedro
 
-### Desenvolvedor Full Stack | Cibersegurança
+### Cibersegurança | AppSec & Threat Intel | Desenvolvedor Full Stack (Node/Next) | IA & ML
 
 <div align="justify">
-  Sou estudante de <b>Ciência da Computação na UFAL</b> e Técnico em Informática. Minha trajetória profissional é definida pela interseção entre <b>construção de software</b> e <b>segurança da informação</b>.
+  Desenvolvedor <b>Full Stack</b> e profissional de <b>Cibersegurança</b> com foco na construção de aplicações <b>escaláveis</b> e <b>resilientes.</b> 
   <br><br>
-  Não me contento apenas em fazer o código funcionar; meu objetivo é criar aplicações que sejam escaláveis, performáticas e, acima de tudo, seguras. Atuo no desenvolvimento Full Stack utilizando o ecossistema <b>JavaScript (Node.js/NestJS/React)</b> para criar produtos digitais, enquanto aprofundo meus conhecimentos em <b>Python e Linux</b> para automação, scripting e <i>Hardening</i> de sistemas.
+  Meu foco é a construção de aplicações escaláveis, resilientes e inerentemente seguras. Atuo no desenvolvimento Full Stack utilizando o ecossistema <b>Node.js, NestJS e Next.js</b> para criar plataformas robustas, aplicando conceitos de arquitetura <b>Zero Trust</b> e proteção de dados diretamente no ciclo de desenvolvimento.
   <br><br>
-  Atualmente, estou focado em aplicar conceitos de <b>AppSec (Application Security)</b> e <b>OWASP Top 10</b> diretamente no ciclo de desenvolvimento, garantindo que a segurança seja um requisito de arquitetura, e não apenas uma etapa final.
+  Atualmente, estou expandindo meu stack com estudos avançados em <b>Inteligência Artificial e Machine Learning</b>, buscando integrar automação, análise de dados e modelos inteligentes à detecção de ameaças e operações de segurança (SecOps e SOC).
 </div>
 
 ---
